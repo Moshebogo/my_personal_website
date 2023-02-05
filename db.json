@@ -1,0 +1,90 @@
+{
+   "nj devil players": [
+      {
+        "id": 1,
+        "name": "Jack Hughes",
+        "stats": {
+        "carreer stats": {
+            "goals": "73",
+            "assists": "91",
+            "points": "164"
+        },
+        "current season stats": {
+            "goals": "29",
+            "assists": "27",
+            "points": "56"
+
+           }
+          }  
+         },
+         {
+            "id": 2,
+            "name": "alex ovechkin",
+            "stats": {
+            "carreer stats": {
+                "goals": "810",
+                "assists": "652",
+                "points": "1462"
+            },
+            "current season stats": {
+                "goals": "30",
+                "assists": "22",
+                "points": "52"
+    
+               }
+              }  
+             },
+             {
+                "id": 3,
+                "name": "sydney crosby",
+                "stats": {
+                "carreer stats": {
+                    "goals": "538",
+                    "assists": "924",
+                    "points": "1462"
+                },
+                "current season stats": {
+                    "goals": "21",
+                    "assists": "32",
+                    "points": "53"
+        
+                   }
+                  }  
+                 },
+                 {
+                    "id": 4,
+                    "name": "connor mcDavid",
+                    "stats": {
+                    "carreer stats": {
+                        "goals": "279",
+                        "assists": "506",
+                        "points": "785"
+                    },
+                    "current season stats": {
+                        "goals": "40",
+                        "assists": "48",
+                        "points": "88"
+            
+                       }
+                      }  
+                     },
+                     {
+                        "id": 5,
+                        "name": "auston matthews",
+                        "stats": {
+                        "carreer stats": {
+                            "goals": "283",
+                            "assists": "226",
+                            "points": "509"
+                        },
+                        "current season stats": {
+                            "goals": "24",
+                            "assists": "28",
+                            "points": "52"
+                
+                           }
+                          }  
+                         }
+
+    ]
+}
